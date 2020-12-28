@@ -1,0 +1,23 @@
+账户明细：https://hacndbdev-api.hangseng.com.cn/hacn-mobile-loan-account-papi-cert-proxy/v1/account-details
+accountBalanceFormat 贷款余额
+numOverdueInstalment 贷款是否逾期
+isLoanClosing 贷款是否结清
+interestAmountFormat、instalmentAmountFormat 本期还款金额
+nextInstalmentDateFormat、nextIntApplDateFormat 还款日期
+numOutstandingInstalment 本金还款剩余期数
+
+loanAccountCcy 贷款币种
+debitInterestRateFormat 贷款利率
+termValue 贷款期限
+intCollCycle 、instCollCycle  还款（还本、还息）周期
+drawdownAmountFormat 放款金额
+commitmentDateFormat 放款日/起息日
+loanDueDateFormat 贷款到期日
+repaymentAccount1Format 还款账户
+
+
+还款历史：https://hacndbdev-api.hangseng.com.cn/hacn-mobile-loan-account-papi-cert-proxy/v1/transaction-history
+transactionDealCode  放款、还款
+captureDtFormat  日期
+totalRepayAmountSign  “+”、“-”
+totalRepayAmountFormat  金额
